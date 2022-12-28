@@ -38,7 +38,7 @@ get_header();
 								echo'<td>'.get_field('pajamos', get_the_ID()).'</td>';
 								echo'<td>'.get_field('islaidos', get_the_ID()).'</td>';
 								echo'<td>'.get_field('balansas', get_the_ID()).'</td>';
-								echo'</tr>';
+								echo'</tr>'; 
 						}				
 					}
 				?>
